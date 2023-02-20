@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+    background-color: #F8ECD1;
+    font-family: 'Labrada', serif;
+}
+
+h1 {
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 90px;
+    color: #85586F;
+}
+
+
+h2 {
+    color: #85586F;
+    font-family:'Merriweather', serif;
+    font-size: 45px;
+}
+
+h3 {
+     color: #354259;
+     font-family: 'Labrada', serif;
+     font-size: 30px;
+}
+
+.art-word {
+     text-align: justify;
+}
+
+.design-word {
+     text-align: justify;
+}
+.art-img {
+    width: 10%;
+    float: left;
+    margin: 30px;
+}
+
+hr {
+    border: dotted #4C3A51 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.design-img {
+    width: 10%;
+    float: right;
+    margin: 30px;
+    
+}
+.btn {
+     color: #900C3F ;
+}
+.art-head {
+    text-align: left;
+}
+.design-head {
+    text-align: right;
+}
+
+.footer-link {
+      color: #7D1935;
+}
+
+p {
+    font-family: 'Chau Philomene One', sans-serif;
+    color: #F0134D;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.hello-world {
+    color: #354259;
+}
+
+
+.bottom-container {
+    background-color: #FDFFBC;
+    padding: 30px 0px 30px;
+    margin: #FDFFBC;
+}
+
+a {
+    color: #7D1935;
+    font-family: 'Chau Philomene One', sans-serif;
+    margin: 50px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #C72C41;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 1px 13px #FF8787;
+    -moz-box-shadow: 0px 1px 13px #FF8787;
+    box-shadow: 0px 1px 13px #FF8787;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #FD8A8A;
+    padding: 4px 15px 6px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #eb285f;
+    text-decoration: none;
+  }
+
+img {
+    position: relative;
+    left: 20px;
+    background-color: #F8ECD1;
+    
+}
